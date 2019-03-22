@@ -1,4 +1,4 @@
-# ATmega32u4 USB dev board
+# Adafruit ATmega32u4 USB dev board
 
 <a href="https://learn.adafruit.com/atmega32u4-breakout"><img src="assets/board.jpg?raw=true" width="500px"></a>
 
