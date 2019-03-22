@@ -1,8 +1,8 @@
-# Adafruit ATmega32u4 USB dev board
+# Atmega32u4 Breakout Board
 
 <a href="https://www.adafruit.com/product/296"><img src="assets/board.jpg?raw=true" width="500px"></a>
 
-## About the Atmega32u4 Breakout board+
+## About the Atmega32u4 Breakout Board
 
 Toss out those FTDI cables and go USB-native with the ATmega32u4. After many months of back-orders, we finally received a shipment of these little guys and are excited to offer our breakout board. The little dev board keeps it simple, with just the bare essentials:
 
