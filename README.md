@@ -20,3 +20,10 @@ Plug it in, [connect a mini-B USB cable](http://www.adafruit.com/products/260) a
 
 [For more information, including files, check out the product page](https://learn.adafruit.com/atmega32u4-breakout) including why you'd want to use a Teensy or this board.
 
+### License
+
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
+
+Designed by Limor Fried/Ladyada for Adafruit Industries.
+
+Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional details.
